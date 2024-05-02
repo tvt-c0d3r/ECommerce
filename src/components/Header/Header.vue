@@ -726,7 +726,7 @@
                    "type": "css-animation"
                  }'>
                             <div class="avatar avatar-sm avatar-circle">
-                                <img class="avatar-img" src="..\assets\img\160x160\img6.jpg" alt="Image Description">
+                                <img class="avatar-img" src="../assets/img/160x160/img6.jpg" alt="Image Description">
                                 <span class="avatar-status avatar-sm-status avatar-status-success"></span>
                             </div>
                         </a>
@@ -737,12 +737,12 @@
                             <div class="dropdown-item-text">
                                 <div class="media align-items-center">
                                     <div class="avatar avatar-sm avatar-circle mr-2">
-                                        <img class="avatar-img" src="..\assets\img\160x160\img6.jpg"
+                                        <img class="avatar-img" src="../assets/img/160x160/img6.jpg"
                                             alt="Image Description">
                                     </div>
                                     <div class="media-body">
-                                        <span class="card-title h5">Mark Williams</span>
-                                        <span class="card-text">mark@example.com</span>
+                                        <span class="card-title h5">admin</span>
+                                        <span class="card-text">admin@example.com</span>
                                     </div>
                                 </div>
                             </div>
