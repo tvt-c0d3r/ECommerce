@@ -7,10 +7,10 @@
           <!-- Logo -->
 
 
-          <a class="navbar-brand" href="..\index.html" aria-label="Front">
-            <img class="navbar-brand-logo" src="..\assets\svg\logos\logo.svg" alt="Logo">
-            <img class="navbar-brand-logo-mini" src="..\assets\svg\logos\logo-short.svg" alt="Logo">
-          </a>
+          <router-link class="navbar-brand" to="/" aria-label="Front">
+            <img class="navbar-brand-logo" src="../../assets/svg/logos/logo.svg" alt="Logo">
+            <img class="navbar-brand-logo-mini" src="../../assets/svg/logos/logo-short.svg" alt="Logo">
+          </router-link>
 
           <!-- End Logo -->
 
@@ -178,7 +178,7 @@
             <li class="navbar-vertical-aside-has-menu nav-footer-item ">
               <a class="js-navbar-vertical-aside-menu-link nav-link nav-link-toggle " href="javascript:;"
                 title="Language">
-                <img class="avatar avatar-xss avatar-circle" src="..\assets\vendor\flag-icon-css\flags\1x1\us.svg"
+                <img class="avatar avatar-xss avatar-circle" src="..\..\assets\vendor\flag-icon-css\flags\1x1\us.svg"
                   alt="United States Flag">
                 <span class="navbar-vertical-aside-mini-mode-hidden-elements text-truncate">Language</span>
               </a>
@@ -187,42 +187,42 @@
                 <li class="nav-item">
                   <a class="nav-link" href="#" title="English (US)">
                     <img class="avatar avatar-xss avatar-circle mr-2"
-                      src="..\assets\vendor\flag-icon-css\flags\1x1\us.svg" alt="Flag">
+                      src="..\..\assets\vendor\flag-icon-css\flags\1x1\us.svg" alt="Flag">
                     English (US)
                   </a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="#" title="English (UK)">
                     <img class="avatar avatar-xss avatar-circle mr-2"
-                      src="..\assets\vendor\flag-icon-css\flags\1x1\gb.svg" alt="Flag">
+                      src="..\..\assets\vendor\flag-icon-css\flags\1x1\gb.svg" alt="Flag">
                     English (UK)
                   </a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="#" title="Deutsch">
                     <img class="avatar avatar-xss avatar-circle mr-2"
-                      src="..\assets\vendor\flag-icon-css\flags\1x1\de.svg" alt="Flag">
+                      src="..\..\assets\vendor\flag-icon-css\flags\1x1\de.svg" alt="Flag">
                     Deutsch
                   </a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="#" title="Dansk">
                     <img class="avatar avatar-xss avatar-circle mr-2"
-                      src="..\assets\vendor\flag-icon-css\flags\1x1\dk.svg" alt="Flag">
+                      src="..\..\assets\vendor\flag-icon-css\flags\1x1\dk.svg" alt="Flag">
                     Dansk
                   </a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="#" title="Italiano">
                     <img class="avatar avatar-xss avatar-circle mr-2"
-                      src="..\assets\vendor\flag-icon-css\flags\1x1\it.svg" alt="Flag">
+                      src="..\..\assets\vendor\flag-icon-css\flags\1x1\it.svg" alt="Flag">
                     Italiano
                   </a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="#" title="中文 (繁體)">
                     <img class="avatar avatar-xss avatar-circle mr-2"
-                      src="..\assets\vendor\flag-icon-css\flags\1x1\cn.svg" alt="Flag">
+                      src="..\..\assets\vendor\flag-icon-css\flags\1x1\cn.svg" alt="Flag">
                     中文 (繁體)
                   </a>
                 </li>
@@ -307,7 +307,7 @@
                     "animationIn": "slideInDown",
                     "hideOnScroll": true
                    }'>
-                  <img class="avatar avatar-xss avatar-circle" src="..\assets\vendor\flag-icon-css\flags\1x1\us.svg"
+                  <img class="avatar avatar-xss avatar-circle" src="..\..\assets\vendor\flag-icon-css\flags\1x1\us.svg"
                     alt="United States Flag">
                 </a>
 
@@ -316,32 +316,32 @@
                   <span class="dropdown-header">Select language</span>
                   <a class="dropdown-item" href="#">
                     <img class="avatar avatar-xss avatar-circle mr-2"
-                      src="..\assets\vendor\flag-icon-css\flags\1x1\us.svg" alt="Flag">
+                      src="..\..\assets\vendor\flag-icon-css\flags\1x1\us.svg" alt="Flag">
                     <span class="text-truncate pr-2" title="English">English (US)</span>
                   </a>
                   <a class="dropdown-item" href="#">
                     <img class="avatar avatar-xss avatar-circle mr-2"
-                      src="..\assets\vendor\flag-icon-css\flags\1x1\gb.svg" alt="Flag">
+                      src="..\..\assets\vendor\flag-icon-css\flags\1x1\gb.svg" alt="Flag">
                     <span class="text-truncate pr-2" title="English">English (UK)</span>
                   </a>
                   <a class="dropdown-item" href="#">
                     <img class="avatar avatar-xss avatar-circle mr-2"
-                      src="..\assets\vendor\flag-icon-css\flags\1x1\de.svg" alt="Flag">
+                      src="..\..\assets\vendor\flag-icon-css\flags\1x1\de.svg" alt="Flag">
                     <span class="text-truncate pr-2" title="Deutsch">Deutsch</span>
                   </a>
                   <a class="dropdown-item" href="#">
                     <img class="avatar avatar-xss avatar-circle mr-2"
-                      src="..\assets\vendor\flag-icon-css\flags\1x1\dk.svg" alt="Flag">
+                      src="..\..\assets\vendor\flag-icon-css\flags\1x1\dk.svg" alt="Flag">
                     <span class="text-truncate pr-2" title="Dansk">Dansk</span>
                   </a>
                   <a class="dropdown-item" href="#">
                     <img class="avatar avatar-xss avatar-circle mr-2"
-                      src="..\assets\vendor\flag-icon-css\flags\1x1\it.svg" alt="Flag">
+                      src="..\..\assets\vendor\flag-icon-css\flags\1x1\it.svg" alt="Flag">
                     <span class="text-truncate pr-2" title="Italiano">Italiano</span>
                   </a>
                   <a class="dropdown-item" href="#">
                     <img class="avatar avatar-xss avatar-circle mr-2"
-                      src="..\assets\vendor\flag-icon-css\flags\1x1\cn.svg" alt="Flag">
+                      src="..\..\assets\vendor\flag-icon-css\flags\1x1\cn.svg" alt="Flag">
                     <span class="text-truncate pr-2" title="中文 (繁體)">中文 (繁體)</span>
                   </a>
                 </div>

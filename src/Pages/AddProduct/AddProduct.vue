@@ -143,7 +143,7 @@
                         <!-- Dropzone -->
                         <div id="attachFilesNewProjectLabel" class="js-dropzone dropzone-custom custom-file-boxed">
                             <div class="dz-message custom-file-boxed-label">
-                                <img class="avatar avatar-xl avatar-4by3 mb-3" src="..\assets\svg\illustrations\browse.svg"
+                                <img class="avatar avatar-xl avatar-4by3 mb-3" src="..\..\assets\svg\illustrations\browse.svg"
                                     alt="Image Description">
                                 <h5 class="mb-1">Choose files to upload</h5>
                                 <p class="mb-2">or</p>

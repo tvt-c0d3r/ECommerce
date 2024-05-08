@@ -444,7 +444,7 @@
                             </td>
                             <td class="table-column-pl-0">
                                 <a class="media align-items-center" href="ecommerce-product-details.html">
-                                    <img class="avatar avatar-lg mr-3" src="..\assets\img\400x400\img25.jpg"
+                                    <img class="avatar avatar-lg mr-3" src="..\..\assets\img\400x400\img25.jpg"
                                         alt="Image Description">
                                     <div class="media-body">
                                         <h5 class="text-hover-primary mb-0">RayBan black sunglasses</h5>
@@ -510,7 +510,7 @@
                             </td>
                             <td class="table-column-pl-0">
                                 <a class="media align-items-center" href="ecommerce-product-details.html">
-                                    <img class="avatar avatar-lg mr-3" src="..\assets\img\400x400\img6.jpg"
+                                    <img class="avatar avatar-lg mr-3" src="..\..\assets\img\400x400\img6.jpg"
                                         alt="Image Description">
                                     <div class="media-body">
                                         <h5 class="text-hover-primary mb-0">Mango Women's shoe</h5>
@@ -576,7 +576,7 @@
                             </td>
                             <td class="table-column-pl-0">
                                 <a class="media align-items-center" href="ecommerce-product-details.html">
-                                    <img class="avatar avatar-lg mr-3" src="..\assets\img\400x400\img3.jpg"
+                                    <img class="avatar avatar-lg mr-3" src="..\..\assets\img\400x400\img3.jpg"
                                         alt="Image Description">
                                     <div class="media-body">
                                         <h5 class="text-hover-primary mb-0">Calvin Klein t-shirts</h5>
@@ -642,7 +642,7 @@
                             </td>
                             <td class="table-column-pl-0">
                                 <a class="media align-items-center" href="ecommerce-product-details.html">
-                                    <img class="avatar avatar-lg mr-3" src="..\assets\img\400x400\img5.jpg"
+                                    <img class="avatar avatar-lg mr-3" src="..\..\assets\img\400x400\img5.jpg"
                                         alt="Image Description">
                                     <div class="media-body">
                                         <h5 class="text-hover-primary mb-0">Givenchy perfume</h5>
@@ -708,7 +708,7 @@
                             </td>
                             <td class="table-column-pl-0">
                                 <a class="media align-items-center" href="ecommerce-product-details.html">
-                                    <img class="avatar avatar-lg mr-3" src="..\assets\img\400x400\img11.jpg"
+                                    <img class="avatar avatar-lg mr-3" src="..\..\assets\img\400x400\img11.jpg"
                                         alt="Image Description">
                                     <div class="media-body">
                                         <h5 class="text-hover-primary mb-0">Asos t-shirts</h5>
@@ -774,7 +774,7 @@
                             </td>
                             <td class="table-column-pl-0">
                                 <a class="media align-items-center" href="ecommerce-product-details.html">
-                                    <img class="avatar avatar-lg mr-3" src="..\assets\img\400x400\img12.jpg"
+                                    <img class="avatar avatar-lg mr-3" src="..\..\assets\img\400x400\img12.jpg"
                                         alt="Image Description">
                                     <div class="media-body">
                                         <h5 class="text-hover-primary mb-0">Apple AirPods 2</h5>
@@ -840,7 +840,7 @@
                             </td>
                             <td class="table-column-pl-0">
                                 <a class="media align-items-center" href="ecommerce-product-details.html">
-                                    <img class="avatar avatar-lg mr-3" src="..\assets\img\400x400\img13.jpg"
+                                    <img class="avatar avatar-lg mr-3" src="..\..\assets\img\400x400\img13.jpg"
                                         alt="Image Description">
                                     <div class="media-body">
                                         <h5 class="text-hover-primary mb-0">Timex Watch</h5>
@@ -906,7 +906,7 @@
                             </td>
                             <td class="table-column-pl-0">
                                 <a class="media align-items-center" href="ecommerce-product-details.html">
-                                    <img class="avatar avatar-lg mr-3" src="..\assets\img\400x400\img14.jpg"
+                                    <img class="avatar avatar-lg mr-3" src="..\..\assets\img\400x400\img14.jpg"
                                         alt="Image Description">
                                     <div class="media-body">
                                         <h5 class="text-hover-primary mb-0">Air Jordan 1</h5>
@@ -972,7 +972,7 @@
                             </td>
                             <td class="table-column-pl-0">
                                 <a class="media align-items-center" href="ecommerce-product-details.html">
-                                    <img class="avatar avatar-lg mr-3" src="..\assets\img\400x400\img15.jpg"
+                                    <img class="avatar avatar-lg mr-3" src="..\..\assets\img\400x400\img15.jpg"
                                         alt="Image Description">
                                     <div class="media-body">
                                         <h5 class="text-hover-primary mb-0">RayBan sunglasses</h5>
@@ -1038,7 +1038,7 @@
                             </td>
                             <td class="table-column-pl-0">
                                 <a class="media align-items-center" href="ecommerce-product-details.html">
-                                    <img class="avatar avatar-lg mr-3" src="..\assets\img\400x400\img17.jpg"
+                                    <img class="avatar avatar-lg mr-3" src="..\..\assets\img\400x400\img17.jpg"
                                         alt="Image Description">
                                     <div class="media-body">
                                         <h5 class="text-hover-primary mb-0">Gray and yellow cap</h5>
@@ -1104,7 +1104,7 @@
                             </td>
                             <td class="table-column-pl-0">
                                 <a class="media align-items-center" href="ecommerce-product-details.html">
-                                    <img class="avatar avatar-lg mr-3" src="..\assets\img\400x400\img16.jpg"
+                                    <img class="avatar avatar-lg mr-3" src="..\..\assets\img\400x400\img16.jpg"
                                         alt="Image Description">
                                     <div class="media-body">
                                         <h5 class="text-hover-primary mb-0">Apple iPad Pro 2020</h5>
@@ -1170,7 +1170,7 @@
                             </td>
                             <td class="table-column-pl-0">
                                 <a class="media align-items-center" href="ecommerce-product-details.html">
-                                    <img class="avatar avatar-lg mr-3" src="..\assets\img\400x400\img18.jpg"
+                                    <img class="avatar avatar-lg mr-3" src="..\..\assets\img\400x400\img18.jpg"
                                         alt="Image Description">
                                     <div class="media-body">
                                         <h5 class="text-hover-primary mb-0">Brown Hat</h5>
@@ -1236,7 +1236,7 @@
                             </td>
                             <td class="table-column-pl-0">
                                 <a class="media align-items-center" href="ecommerce-product-details.html">
-                                    <img class="avatar avatar-lg mr-3" src="..\assets\img\400x400\img19.jpg"
+                                    <img class="avatar avatar-lg mr-3" src="..\..\assets\img\400x400\img19.jpg"
                                         alt="Image Description">
                                     <div class="media-body">
                                         <h5 class="text-hover-primary mb-0">Levis women's jeans</h5>
@@ -1302,7 +1302,7 @@
                             </td>
                             <td class="table-column-pl-0">
                                 <a class="media align-items-center" href="ecommerce-product-details.html">
-                                    <img class="avatar avatar-lg mr-3" src="..\assets\img\400x400\img20.jpg"
+                                    <img class="avatar avatar-lg mr-3" src="..\..\assets\img\400x400\img20.jpg"
                                         alt="Image Description">
                                     <div class="media-body">
                                         <h5 class="text-hover-primary mb-0">Levis men's jeans jacket</h5>
@@ -1368,7 +1368,7 @@
                             </td>
                             <td class="table-column-pl-0">
                                 <a class="media align-items-center" href="ecommerce-product-details.html">
-                                    <img class="avatar avatar-lg mr-3" src="..\assets\img\400x400\img21.jpg"
+                                    <img class="avatar avatar-lg mr-3" src="..\..\assets\img\400x400\img21.jpg"
                                         alt="Image Description">
                                     <div class="media-body">
                                         <h5 class="text-hover-primary mb-0">Beats Headphones</h5>
@@ -1434,7 +1434,7 @@
                             </td>
                             <td class="table-column-pl-0">
                                 <a class="media align-items-center" href="ecommerce-product-details.html">
-                                    <img class="avatar avatar-lg mr-3" src="..\assets\img\400x400\img22.jpg"
+                                    <img class="avatar avatar-lg mr-3" src="..\..\assets\img\400x400\img22.jpg"
                                         alt="Image Description">
                                     <div class="media-body">
                                         <h5 class="text-hover-primary mb-0">Office Notebook</h5>
@@ -1500,7 +1500,7 @@
                             </td>
                             <td class="table-column-pl-0">
                                 <a class="media align-items-center" href="ecommerce-product-details.html">
-                                    <img class="avatar avatar-lg mr-3" src="..\assets\img\400x400\img23.jpg"
+                                    <img class="avatar avatar-lg mr-3" src="..\..\assets\img\400x400\img23.jpg"
                                         alt="Image Description">
                                     <div class="media-body">
                                         <h5 class="text-hover-primary mb-0">Colorful pens</h5>
@@ -1566,7 +1566,7 @@
                             </td>
                             <td class="table-column-pl-0">
                                 <a class="media align-items-center" href="ecommerce-product-details.html">
-                                    <img class="avatar avatar-lg mr-3" src="..\assets\img\400x400\img24.jpg"
+                                    <img class="avatar avatar-lg mr-3" src="..\..\assets\img\400x400\img24.jpg"
                                         alt="Image Description">
                                     <div class="media-body">
                                         <h5 class="text-hover-primary mb-0">Clarks shoes</h5>

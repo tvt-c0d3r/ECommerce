@@ -180,7 +180,7 @@
                             <div class="col-6 col-sm-4 col-md-3 mb-3 mb-lg-5">
                                 <!-- Card -->
                                 <div class="card card-sm">
-                                    <img class="card-img-top" src="..\assets\img\400x400\img7.jpg" alt="Image Description">
+                                    <img class="card-img-top" src="..\..\assets\img\400x400\img7.jpg" alt="Image Description">
 
                                     <div class="card-body">
                                         <div class="row text-center">
@@ -208,7 +208,7 @@
                             <div class="col-6 col-sm-4 col-md-3 mb-3 mb-lg-5">
                                 <!-- Card -->
                                 <div class="card card-sm">
-                                    <img class="card-img-top" src="..\assets\img\400x400\img8.jpg" alt="Image Description">
+                                    <img class="card-img-top" src="..\..\assets\img\400x400\img8.jpg" alt="Image Description">
 
                                     <div class="card-body">
                                         <div class="row text-center">
@@ -236,7 +236,7 @@
                             <div class="col-6 col-sm-4 col-md-3 mb-3 mb-lg-5">
                                 <!-- Card -->
                                 <div class="card card-sm">
-                                    <img class="card-img-top" src="..\assets\img\400x400\img9.jpg" alt="Image Description">
+                                    <img class="card-img-top" src="..\..\assets\img\400x400\img9.jpg" alt="Image Description">
 
                                     <div class="card-body">
                                         <div class="row text-center">
@@ -264,7 +264,7 @@
                             <div class="col-6 col-sm-4 col-md-3 mb-3 mb-lg-5">
                                 <!-- Card -->
                                 <div class="card card-sm">
-                                    <img class="card-img-top" src="..\assets\img\400x400\img10.jpg"
+                                    <img class="card-img-top" src="..\..\assets\img\400x400\img10.jpg"
                                         alt="Image Description">
 
                                     <div class="card-body">
@@ -295,7 +295,7 @@
                         <!-- Dropzone -->
                         <div id="attachFilesNewProjectLabel" class="js-dropzone dropzone-custom custom-file-boxed">
                             <div class="dz-message custom-file-boxed-label">
-                                <img class="avatar avatar-xl avatar-4by3 mb-3" src="..\assets\svg\illustrations\browse.svg"
+                                <img class="avatar avatar-xl avatar-4by3 mb-3" src="..\..\assets\svg\illustrations\browse.svg"
                                     alt="Image Description">
                                 <h5 class="mb-1">Choose files to upload</h5>
                                 <p class="mb-2">or</p>
@@ -389,7 +389,7 @@
                                         </div>
                                     </td>
                                     <th>
-                                        <img class="avatar" src="..\assets\img\400x400\img7.jpg" alt="Image Description">
+                                        <img class="avatar" src="..\..\assets\img\400x400\img7.jpg" alt="Image Description">
                                     </th>
                                     <th class="table-column-pl-0">
                                         <input type="text" class="form-control" value="S">
@@ -445,7 +445,7 @@
                                         </div>
                                     </td>
                                     <th>
-                                        <img class="avatar" src="..\assets\img\400x400\img7.jpg" alt="Image Description">
+                                        <img class="avatar" src="..\..\assets\img\400x400\img7.jpg" alt="Image Description">
                                     </th>
                                     <th class="table-column-pl-0">
                                         <input type="text" class="form-control" value="M">
@@ -501,7 +501,7 @@
                                         </div>
                                     </td>
                                     <th>
-                                        <img class="avatar" src="..\assets\img\400x400\img7.jpg" alt="Image Description">
+                                        <img class="avatar" src="..\..\assets\img\400x400\img7.jpg" alt="Image Description">
                                     </th>
                                     <th class="table-column-pl-0">
                                         <input type="text" class="form-control" value="L">
@@ -557,7 +557,7 @@
                                         </div>
                                     </td>
                                     <th>
-                                        <img class="avatar" src="..\assets\img\400x400\img7.jpg" alt="Image Description">
+                                        <img class="avatar" src="..\..\assets\img\400x400\img7.jpg" alt="Image Description">
                                     </th>
                                     <th class="table-column-pl-0">
                                         <input type="text" class="form-control" value="XL">
@@ -613,7 +613,7 @@
                                         </div>
                                     </td>
                                     <th>
-                                        <img class="avatar" src="..\assets\img\400x400\img7.jpg" alt="Image Description">
+                                        <img class="avatar" src="..\..\assets\img\400x400\img7.jpg" alt="Image Description">
                                     </th>
                                     <th class="table-column-pl-0">
                                         <input type="text" class="form-control" value="S">
@@ -669,7 +669,7 @@
                                         </div>
                                     </td>
                                     <th>
-                                        <img class="avatar" src="..\assets\img\400x400\img7.jpg" alt="Image Description">
+                                        <img class="avatar" src="..\..\assets\img\400x400\img7.jpg" alt="Image Description">
                                     </th>
                                     <th class="table-column-pl-0">
                                         <input type="text" class="form-control" value="M">
@@ -725,7 +725,7 @@
                                         </div>
                                     </td>
                                     <th>
-                                        <img class="avatar" src="..\assets\img\400x400\img7.jpg" alt="Image Description">
+                                        <img class="avatar" src="..\..\assets\img\400x400\img7.jpg" alt="Image Description">
                                     </th>
                                     <th class="table-column-pl-0">
                                         <input type="text" class="form-control" value="L">
@@ -781,7 +781,7 @@
                                         </div>
                                     </td>
                                     <th>
-                                        <img class="avatar" src="..\assets\img\400x400\img7.jpg" alt="Image Description">
+                                        <img class="avatar" src="..\..\assets\img\400x400\img7.jpg" alt="Image Description">
                                     </th>
                                     <th class="table-column-pl-0">
                                         <input type="text" class="form-control" value="XL">
@@ -837,7 +837,7 @@
                                         </div>
                                     </td>
                                     <th>
-                                        <img class="avatar" src="..\assets\img\400x400\img7.jpg" alt="Image Description">
+                                        <img class="avatar" src="..\..\assets\img\400x400\img7.jpg" alt="Image Description">
                                     </th>
                                     <th class="table-column-pl-0">
                                         <input type="text" class="form-control" value="S">
@@ -893,7 +893,7 @@
                                         </div>
                                     </td>
                                     <th>
-                                        <img class="avatar" src="..\assets\img\400x400\img7.jpg" alt="Image Description">
+                                        <img class="avatar" src="..\..\assets\img\400x400\img7.jpg" alt="Image Description">
                                     </th>
                                     <th class="table-column-pl-0">
                                         <input type="text" class="form-control" value="M">
@@ -949,7 +949,7 @@
                                         </div>
                                     </td>
                                     <th>
-                                        <img class="avatar" src="..\assets\img\400x400\img7.jpg" alt="Image Description">
+                                        <img class="avatar" src="..\..\assets\img\400x400\img7.jpg" alt="Image Description">
                                     </th>
                                     <th class="table-column-pl-0">
                                         <input type="text" class="form-control" value="L">
@@ -1005,7 +1005,7 @@
                                         </div>
                                     </td>
                                     <th>
-                                        <img class="avatar" src="..\assets\img\400x400\img7.jpg" alt="Image Description">
+                                        <img class="avatar" src="..\..\assets\img\400x400\img7.jpg" alt="Image Description">
                                     </th>
                                     <th class="table-column-pl-0">
                                         <input type="text" class="form-control" value="XL">
@@ -1074,7 +1074,7 @@
                                 </div>
                             </td>
                             <th>
-                                <img class="avatar" src="..\assets\img\400x400\img2.jpg" alt="Image Description">
+                                <img class="avatar" src="..\..\assets\img\400x400\img2.jpg" alt="Image Description">
                             </th>
                             <th class="table-column-pl-0">
                                 <input type="text" class="form-control">
