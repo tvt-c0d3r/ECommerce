@@ -1,7 +1,6 @@
 <script setup>
   import SideBar from './components/Sidebar/SideBar.vue';
   import Header from './components/Header/Header.vue';
-  import Overview from './components/Overview/Overview.vue';
 </script>
 
 <template>
@@ -10,7 +9,7 @@
     </header>
     <SideBar />
     <main id="content" role="main" class="main">
-    <Overview />
+      <RouterView />
   </main>
 </template>
 
